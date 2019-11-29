@@ -4,7 +4,7 @@
     "summary": """Fixes "Session Expired" issue in destributed deployment""",
     "category": "Extra Tools",
     "images": [],
-    "version": "1.0.0",
+    "version": "10.0.1.0.0",
 
     "author": "IT-Projects LLC, Ivan Yelizariev",
     "website": "https://it-projects.info",

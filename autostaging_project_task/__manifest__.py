@@ -8,7 +8,7 @@
     'website': "https://it-projects.info",
     'images': ['images/a.png'],
     'category': 'Project',
-    'version': '1.0.1',
+    'version': '10.0.1.0.1',
     'application': False,
     'price': 39.00,
     'currency': 'EUR',
